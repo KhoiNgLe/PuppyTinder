@@ -1,2 +1,1 @@
-# PuppyTinder
-Boostrap exercise 
+TinDog Starting Files
